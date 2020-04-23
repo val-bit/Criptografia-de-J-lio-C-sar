@@ -1,17 +1,9 @@
 package challenge;
 
 public class CriptografiaCesariana implements Criptografia {
+   
 
     @Override
-    public String criptografar(String letra) {
-        return descriptografeOuCriptografe(letra,int = 3));
-
-    }
-
-    @Override
-    public String descriptografar(String letra) {
-        return descriptografeOuCriptografe(letra, int = -3));
-    }
 
 public String criptografar(String letra, int numero) {
 
@@ -36,6 +28,8 @@ public String criptografar(String letra, int numero) {
         }
         return textoNovo;
     }
+    
+@Override
 
 public String descriptografar(String letra, int numero) {
 
