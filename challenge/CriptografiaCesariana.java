@@ -37,7 +37,7 @@ public String criptografar(String letra, int numero) {
         return textoNovo;
     }
 
-public String Descriptografar(String letra, int numero) {
+public String descriptografar(String letra, int numero) {
 
         String alfabeto = "abcdefghijklmnopqrstuvwxyz";
         String textoNovo = "";
