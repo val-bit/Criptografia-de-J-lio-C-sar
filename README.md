@@ -11,7 +11,7 @@ Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondi
 
 <p align="justify"> Normal: a ligeira raposa marrom saltou sobre o cachorro cansado</p>
 <p align="justify"> Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr</p>
-<p align="justify"> O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas mensagens.</p>
+<p align="justify"> <b>  O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas mensagens.</b></p>
 
 Regras:
 
