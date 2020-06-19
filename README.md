@@ -16,12 +16,12 @@ O objetivo desse desafio é que você automatiza a criptografia e descriptografi
 Regras:
 
 As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
-No nosso caso os números serão mantidos, ou seja:
-Normal: 1
-Cifrado: 1
-Tópicos
+No nosso caso os números serão mantidos, ou seja:</p>
+<p>Normal: 1</p>
+<p>Cifrado: 1</p>
+<p>Tópicos.</p>
 
-</p>
+
 
 <p>
 > Status do Projeto: Concluido :heavy_check_mark:
