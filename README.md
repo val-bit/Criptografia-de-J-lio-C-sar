@@ -13,7 +13,7 @@ Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondi
 <p align="justify"> :interrobang: Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr</p>
 <p align="justify"> <b> :pushpin: O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas mensagens.</b></p>
 
-Regras:
+:white_check_mark: Regras:
 
 As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para descriptografia.
 No nosso caso os números serão mantidos, ou seja:</p>
