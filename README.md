@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/static/v1?label=JAVA&message=framework&color=red&style=for-the-badge&logo=JAVA)
+![Badge](https://img.shields.io/static/v1?label=JAVA&message=linguage&color=red&style=for-the-badge&logo=JAVA)
 
 
 <h1 align="center"> Criptografia de Júlio César - JAVA :trophy: :checkered_flag: </h1>
